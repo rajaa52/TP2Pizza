@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pizza Recipes</string>
+    <string name="title_activity_list_pizza">Pizza Recipes</string>
+    <string name="toolbar">Pizza Recipes</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_description">description</string>
+    <string name="description">Description</string>
+    <string name="ingrédients">Ingrédients</string>
+
+
+
+
+</resources>
