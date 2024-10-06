@@ -15,7 +15,7 @@ public class ProduitService implements IDao<Produit> {
 
     @Override
     public boolean update(Produit p) {
-        // Implémentez la logique de mise à jour si nécessaire
+
         return false;
     }
 

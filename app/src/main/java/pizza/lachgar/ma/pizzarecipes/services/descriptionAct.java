@@ -17,8 +17,8 @@ public class descriptionAct extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_description2);
         Toolbar toolbar = findViewById(R.id.toolbar2);
-        setSupportActionBar(toolbar); // Configurer la Toolbar
-        toolbar.setTitle(getString(R.string.toolbar)); // Définir le titre de la Toolbar
+        setSupportActionBar(toolbar);
+        toolbar.setTitle(getString(R.string.toolbar));
 
         // Initialiser les autres vues
         titrePizza = findViewById(R.id.titrePizza);
